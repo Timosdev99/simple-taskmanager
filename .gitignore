@@ -1,3 +1,4 @@
+.zig-cache
 taskmanager.exe
 taskmanager.exe.obj
 taskmanager.pdb
