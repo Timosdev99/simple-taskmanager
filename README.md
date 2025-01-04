@@ -45,6 +45,6 @@ zig build-exe src/taskmanager.zig
 ./taskmanager complete "TaskNUmber"
 ```
 
-## Contributio
+## Contributions
 
 feel free to fork this repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
