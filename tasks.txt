@@ -3,3 +3,5 @@
 1 Learn Zig
 1 Learn Zig
 0 Learn Zig
+1 build cli
+1 adding readme
